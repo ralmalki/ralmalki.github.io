@@ -1,1 +1,3 @@
-# BTP600
+# Bubble sort animation
+
+https://ralmalki.github.io/
